@@ -5,7 +5,7 @@
 
 ![Vivek Shukla — Web development meets cybersecurity](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,65:123B42,100:2DD4BF&height=220&section=header&text=VIVEK%20SHUKLA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPMENT%20%2F%20CYBERSECURITY&descSize=15&descAlignY=59&animation=fadeIn)
 
-### Building for the web. Thinking about security.
+
 
 Student developer · SOC analyst aspirant · Gorakhpur, India
 
