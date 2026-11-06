@@ -1,4 +1,4 @@
-[Uploadin<!-- Profile setup: Create a public repository named vshukla0x under the vshukla0x account.
+<!-- Profile setup: Create a public repository named vshukla0x under the vshukla0x account.
      Add this file as README.md at the repository root. -->
 
 <div align="center">
