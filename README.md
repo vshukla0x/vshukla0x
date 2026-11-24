@@ -54,7 +54,7 @@ approach:  build, understand, improve
 
 ## Selected work
 
-### 01 / Fit Forge
+### 01 / First Set
 
 **A fitness companion built around everyday training.**
 
